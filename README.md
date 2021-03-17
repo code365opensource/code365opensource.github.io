@@ -4,7 +4,7 @@
 
 ## 开源项目
 
-1. 开源脚本库（PowerShell）<https://github.com/code365opensource/code365scripts>
+1. 开源脚本库（PowerShell）<https://code365.xyz/code365scripts>
 
 ## 微信官号
 
