@@ -2,6 +2,14 @@
 
 > 创新、开源、分享 - 陈希章 @ 2021
 
+## 线上课程
+
+1. Microsoft Teams 开发入门和实践 <https://aka.ms/teamsdev163study>
+1. Office 365 开发入门指南 <https://aka.ms/office365devlesson>
+
+## 中文书籍
+1. Office 365开发入门指南 <http://product.dangdang.com/25347066.html>
+
 ## 开源项目
 
 1. PowerShell 脚本库 <https://code365.xyz/code365scripts>
